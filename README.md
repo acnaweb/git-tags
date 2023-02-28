@@ -70,3 +70,25 @@ git show v1.2.0
 ``` 
 git push origin v1.2.0
 ``` 
+
+-----
+### Version 1.2.1
+
+``` 
+git add .
+git commit -m "version 1.2.1"
+git tag -a v1.2.1 -m "Releasing version v1.2.1" 
+```
+
+> Listing tags
+``` 
+git tag
+``` 
+> Tag details
+``` 
+git show v1.2.1
+``` 
+> Push to remote
+``` 
+git push origin v1.2.1
+``` 
