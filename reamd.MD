@@ -24,7 +24,7 @@ git show v1.0.0
 
 > Push to remote
 ``` 
-git push v1.0.0
+git push origin v1.0.0
 ``` 
 
 -----
@@ -46,7 +46,7 @@ git show v1.1.0
 ``` 
 > Push to remote
 ``` 
-git push v1.1.0
+git push origin v1.1.0
 ``` 
 
 -----
@@ -68,5 +68,5 @@ git show v1.2.0
 ``` 
 > Push to remote
 ``` 
-git push v1.2.0
+git push origin v1.2.0
 ``` 
